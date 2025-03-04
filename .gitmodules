@@ -1,0 +1,9 @@
+[submodule "GoConductor"]
+	path = GoConductor
+	url = https://github.com/MichaelVonWolfen/GoConductor.git
+[submodule "GoSnatch"]
+	path = GoSnatch
+	url = https://github.com/MichaelVonWolfen/GoSnatch.git
+[submodule "SpecialWorkers"]
+	path = SpecialWorkers
+	url = https://github.com/MichaelVonWolfen/SpecialWorkers.git
